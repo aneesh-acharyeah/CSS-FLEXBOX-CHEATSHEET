@@ -109,6 +109,3 @@ Main Axis (row) → →
 
 ---
 
-## 🏁 License
-
-This cheatsheet is free to use under the [MIT License](LICENSE).
